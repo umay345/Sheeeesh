@@ -1,0 +1,21 @@
+body {
+    font-size: 30pt;
+    background-color: rgb(41, 41, 41);
+}
+p {
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 1.5em;
+  position: center;
+}
+button {
+  transform: translateY(150px) rotateZ(-10deg);
+}
+video {
+  position: center;
+}
+  
+
